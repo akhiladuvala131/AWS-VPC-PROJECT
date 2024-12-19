@@ -1,0 +1,5 @@
+{
+    "VpcCIDR": "10.0.0.0/16",
+    "Region": "us-east-1a"
+  }
+  
